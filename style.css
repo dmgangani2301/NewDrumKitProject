@@ -1,0 +1,74 @@
+body{
+   text-align: center;
+   background-color: aqua;
+   background-image: url(Music\ image.jpeg)
+   
+}
+h1{
+    font-size: xx-large;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 0 #da0465;
+}
+.Sa {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+
+}
+.Re {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.Ga {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.Ma {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.Pa {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.Dha {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.Ni {
+    font-size: xx-large;
+    color:red;
+    border-color: blue;
+}
+.all {
+    margin: 10%;;
+}
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3; 
+    opacity: 0.5; 
+}
+.button {
+    cursor: pointer;
+    outline: none; 
+    border: 10px solid #404B69; 
+    font-size:xx-large; 
+    font-family: 'Arvo', cursive; 
+    line-height: 2; 
+    font-weight: 900; 
+    color: #DA0463; 
+    text-shadow: 3px 0 #DBEDF3; 
+    border-radius: 15px; 
+    display: inline-block; 
+    width: 150px; 
+    height: 150px; 
+    text-align: center; 
+    margin: 5px;               /* MARGIN IS THE OUTER SPACE OF BUTTON*/
+    background-color: white;
+    padding: 20px 40px;        /* PADDING IS INNER SPACE BETWEEN BORDER AND TEXT*/
+}
